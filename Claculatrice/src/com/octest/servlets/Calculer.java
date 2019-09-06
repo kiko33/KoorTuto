@@ -72,7 +72,7 @@ public class Calculer extends HttpServlet {
 	
 	public double getSomme(double somme) {
 		//somme = (val1 + val2);
-		//afficher la somme
+		
 		System.out.println(somme);
 		return somme;		
 	}
